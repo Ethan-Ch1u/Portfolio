@@ -1,3 +1,36 @@
 body {
   background-image: url("https://media.istockphoto.com/vectors/black-and-white-vector-endless-pattern-created-with-thin-undulate-vector-id994875958?b=1&k=20&m=994875958&s=170667a&w=0&h=Sswyk0dWYhzvHmOsr6ut023IVjyiGBFZuCfHCrofNJE=")
 }
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited{
+  background-color: #04AA6D;
+}
+
+p{
+  font-family: Serif;
+}
+
+.lead{
+  font-family: Serif;
+}
+
+h5{
+    font-family: Serif;
+}
+/*changes color for navbar */
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+  background-color: #04AA6D;
+}
+
+a.nav-link{
+  color: black;
+}
+/*changes color for mail button */
+.btn-outline-primary{
+  color: #04AA6D;
+  border-color:  #04AA6D;
+}
+
+a.btn.btn-outline-primary:hover{
+  background-color: #04AA6D;
+  border-color:  #04AA6D;
+}
